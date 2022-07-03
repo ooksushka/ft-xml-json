@@ -1,0 +1,25 @@
+{
+    "category" : {
+       "name" : "Phone",
+       "description" : "So good",
+       "image" : "img.jpg",
+       "parent_category" : "Electronics"
+    },
+    "product" : {
+       "name" : "Iphone",
+       "description" : "So good",
+       "images" : [
+        {
+            "image" :"imgIphone1.jpg"
+        },
+        {
+            "image" :"imgIphone2.jpg"
+        },
+        {
+            "image" :"imgIphone3.jpg"
+        }
+       ],
+       "category" : "Phone",
+       "price" : 1000
+    }
+ }
