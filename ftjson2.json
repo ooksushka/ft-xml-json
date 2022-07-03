@@ -1,0 +1,50 @@
+{
+    "lesson1" : {
+       "name" : "lesson №1",
+       "description" : "XML",
+       "necessarily" : true,
+       "task" : [
+        {
+            "name" : "task №1",
+            "necessarily" : true,
+            "q_a" : [
+                {
+                    "question" : "blabla?",
+                    "answer" : "bla"
+                },
+                {
+                    "question" : "bla blabla, bla bla?",
+                    "answer" : "blabla bla"
+                }
+            ]
+        },
+        {
+            "name" : "task №2",
+            "necessarily" : false,
+            "q_a" : [
+                {
+                    "question" : "bulbul?",
+                    "answer" : "bul"
+                }
+            ]
+        }
+       ]
+    },
+    "lesson2" : {
+        "name" : "lesson №2",
+        "description" : "JSON",
+        "necessarily" : false,
+        "task" : [
+         {
+             "name" : "task №1",
+             "necessarily" : false,
+             "q_a" : [
+                 {
+                     "question" : "jaja ja?",
+                     "answer" : "ja"
+                 }
+             ]
+         }
+        ]
+     }
+ }
