@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<categories>
+
+   <category parent_category="">
+      <name></name>
+      <description></description>
+      <image></image>
+   </category>
+
+   <product category="">
+      <name></name>
+      <description></description>
+      <array name="images">
+        <item>image1</item>
+        <item>image2</item>
+        <item>image3</item>
+      </array> 
+      <price></price>
+   </product> 
+
+</categories>
