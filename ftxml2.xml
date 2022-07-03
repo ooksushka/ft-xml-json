@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lessons>
+
+   <lesson type="yes">  <!-- yes - обязательный, no - не обязательный -->
+      <name></name>
+      <description></description>
+      <task type="yes"> 
+         <name></name>
+         <q_a>
+            <question></question>
+            <answer></answer>
+         </q_a>
+         <q_a>
+            <question></question>
+            <answer></answer>
+         </q_a>
+      </task> 
+      <task type="no"> 
+         <name></name>
+         <q_a>
+            <question></question>
+            <answer></answer>
+         </q_a>
+      </task>
+   </lesson>
+
+   <lesson type="no">  <!-- yes - обязательный, no - не обязательный -->
+      <name></name>
+      <description></description>
+      <task type="no"> 
+         <name></name>
+         <task type="no"> 
+         <name></name>
+         <q_a>
+            <question></question>
+            <answer></answer>
+         </q_a>
+      </task>
+      </task> 
+   </lesson>
+
+
+</lessons>
